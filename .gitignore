@@ -1,0 +1,8 @@
+venv
+__pycache__
+.vscode
+*.fif
+*.gdf
+relax.egg-info
+*.DS_Store
+venv
